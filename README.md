@@ -1,4 +1,9 @@
-g" />](github)
+### Xello, I'm Lars Christoffersen
+
+## Currently working at SSI as a bioinformatician
+
+### Current tech stack
+
 [<img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" />](github)
 [<img align="left" alt="Visual Studio Code" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" />](github)
 [<img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />](github)
