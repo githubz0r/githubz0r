@@ -1,4 +1,4 @@
-### Greetings, I'm Lars Christoffersen
+### L Christoffersen
 
 ##
 - Currently working at SSI as a bioinformatician
@@ -15,7 +15,7 @@
 
 
 ### Social Media
-TBA
+https://www.linkedin.com/in/lebc66/
 
 <!--
 **kimleeng/kimleeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
